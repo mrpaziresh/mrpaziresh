@@ -1,4 +1,5 @@
 🕵️‍♂️ About Me
+
      🙂 I am Alireza Paziresh And Im 17 years old
 
      📍 Im originally Iranian but I live in london,UK.
@@ -12,8 +13,6 @@
     📚 Love reading books on personal development.
 
     💬 Ask me about Web and mobile.
-
-    ⚡ Quotes: When you write a computer program you've got to not just list things out and sort of take an algorithm and translate it into a set of instructions. But when there's a bug — and all programs have bugs — you've got to debug it. You've got to go in, change it, and then re-execute … and you iterate. And that iteration is really a very, very good approximation of learning
 
 🚀 Achievements
 
