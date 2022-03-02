@@ -1,8 +1,8 @@
 🕵️‍♂️ About Me
 
-     🙂 I am Alireza Paziresh And Im 17 years old
+    🙂 I am Alireza Paziresh And Im 17 years old
 
-     📍 Im originally Iranian but I live in London,UK.
+    📍 Im originally Iranian but I live in London,UK.
    
     😎 Interested in contributing expertise in web and mobile development.
 
