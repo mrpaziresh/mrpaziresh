@@ -39,6 +39,7 @@
     🥇 International ICDL Certificate 
     🥇 International Java Programming Certificate 
     🥇 International PHP Certificate from American SMC
+    🥇 Winner of the 2022 Puzzle Day competition
  
 <!---
 mrpaziresh/mrpaziresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
