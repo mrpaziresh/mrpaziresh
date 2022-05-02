@@ -35,11 +35,11 @@
 
     👨‍🎓 Math student 
 
-    🥇 International certificate in computer science from Harvard University 
     🥇 International ICDL Certificate 
+    🥇 Winner of the 2022 Puzzle Day competition
     🥇 International Java Programming Certificate 
     🥇 International PHP Certificate from American SMC
-    🥇 Winner of the 2022 Puzzle Day competition
+    🥇 International certificate in computer science from Harvard University 
  
 <!---
 mrpaziresh/mrpaziresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
