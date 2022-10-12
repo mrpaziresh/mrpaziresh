@@ -36,6 +36,7 @@
     👨‍🎓 Math student 
 
     🥇 International ICDL Certificate 
+    🥇 OpenAI's Data Analytics Certificate
     🥇 Winner of the 2022 Puzzle Day competition
     🥇 International Java Programming Certificate 
     🥇 International PHP Certificate from American SMC
