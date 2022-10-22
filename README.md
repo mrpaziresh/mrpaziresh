@@ -41,6 +41,10 @@
     🥇 International Java Programming Certificate 
     🥇 International PHP Certificate from American SMC
     🥇 International certificate in computer science from Harvard University 
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
+
  
 <!---
 mrpaziresh/mrpaziresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
