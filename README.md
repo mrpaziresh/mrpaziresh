@@ -38,7 +38,8 @@
     🥇 International ICDL Certificate 
     🥇 OpenAI's Data Analytics Certificate
     🥇 Winner of the 2022 Puzzle Day competition
-    🥇 International Java Programming Certificate 
+    🥇 International Java Programming Certificate
+    🥇 The 1St rank of Iran Mobile Congress 2023
     🥇 International PHP Certificate from American SMC
     🥇 International certificate in computer science from Harvard University 
 
