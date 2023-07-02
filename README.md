@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alireza Paziresh</h1>
-<h3 align="center">web and mobile developer from United Kingdom</h3>
+<h3 align="center">web and mobile developer from United Kingdom</h3>https://github.com/mrpaziresh/mrpaziresh/blob/main/README.md
 
 
 <h3 align="left">Connect with me:</h3>
@@ -45,7 +45,7 @@
 
 <!---
 mrpaziresh/mrpaziresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your change.   
+You can click the Preview link to take a look at your change .   
 --->
  
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
