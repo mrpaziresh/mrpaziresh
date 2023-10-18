@@ -39,7 +39,6 @@
     🥇 Winner of the 2022 Puzzle Day competition
     🥇 The 1St rank of Iran Mobile Congress 2023
     🥇 International Java Programming Certificate
-    🥇 International PHP Certificate from American SMC
     🥇 International certificate in computer science from Harvard University 
 
 <!---
