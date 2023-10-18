@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alireza Paziresh</h1>
-<h3 align="center">web and mobile developer from United Kingdom</h3>
+<h3 align="center">Software Engineer</h3>
 <a href= https://github.com/mrpaziresh/mrpaziresh/blob/main/README.md >
 
 
@@ -17,8 +17,6 @@
 🕵️‍♂️ About Me
 
     🙂 I am Alireza Paziresh And Im 18 years old.
-
-    📍 Im originally Iranian but I live in London,UK.
    
     😎 Interested in contributing expertise in web and mobile development.
 
