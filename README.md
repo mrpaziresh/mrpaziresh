@@ -16,7 +16,7 @@
 
 🕵️‍♂️ About Me
 
-    🙂 I am Alireza Paziresh And Im 18 years old.
+    🙂 I am Alireza Paziresh And Im 19 years old.
    
     😎 Interested in contributing expertise in web and mobile development.
 
@@ -32,12 +32,12 @@
 
     ⭐ Top software from the Harvard Computer Science Festival 
 
-    👨‍🎓 Math student  
-
+    👨‍🎓 IE student  
+    🥇 The 1st rank of CS50fair 2023
     🥇 International ICDL Certificate 
     🥇 OpenAI's Data Analytics Certificate
     🥇 Winner of the 2022 Puzzle Day competition
-    🥇 The 1St rank of Iran Mobile Congress 2023
+    🥇 The 1st rank of Iran Mobile Congress 2023
     🥇 International Java Programming Certificate
     🥇 International certificate in computer science from Harvard University 
 
