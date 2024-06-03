@@ -32,7 +32,7 @@
 
     ⭐ Top software from the Harvard Computer Science Festival 
 
-    👨‍🎓 IE student  
+    👨‍🎓 CS student  
     🥇 The 1st rank of CS50fair 2023
     🥇 International ICDL Certificate 
     🥇 OpenAI's Data Analytics Certificate
